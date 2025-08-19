@@ -5,8 +5,8 @@ security logs for SIEM and Blue Team operations.
 """
 
 __version__ = "0.1.0"
-__author__ = "Akhil Krishna"
-__email__ = "akhilkrishna@example.com"
+__author__ = "user"
+__email__ = "user@example.com"
 
 from . import ingest, parser, alerts, report, models, cli
 
